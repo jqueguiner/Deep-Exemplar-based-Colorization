@@ -1,4 +1,4 @@
-FORM nvcr.io/nvidia/pytorch:19.06-py3
+FROM nvcr.io/nvidia/pytorch:19.06-py3
 
 RUN curl -LO http://repo.continuum.io/miniconda/Miniconda-latest-Linux-x86_64.sh
 
